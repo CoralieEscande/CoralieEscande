@@ -19,7 +19,7 @@ git branch -M main
 
 
 ### Verify the configuration : 
-####git config --list
+#### git config --list  
 diff.astextplain.textconv=astextplain  
 filter.lfs.clean=git-lfs clean -- %f  
 filter.lfs.smudge=git-lfs smudge -- %f  
