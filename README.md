@@ -41,6 +41,18 @@ color.status=auto
 color.branch=auto  
 core.editor=Visual Studio Code  
 merge.tool=Visual Studio Code  
+alias.lola=log --graph --decorate --pretty=oneline --abbrev-commit --all  
+core.repositoryformatversion=0  
+core.filemode=false  
+core.bare=false  
+core.logallrefupdates=true  
+core.symlinks=false  
+core.ignorecase=true  
+remote.origin.url=https://github.com/CoralieEscande/Exercices2Moocs.git  
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*  
+branch.main.remote=origin  
+branch.main.merge=refs/heads/main  
+
 
 
 ## How to import the distant repository to your local directory
