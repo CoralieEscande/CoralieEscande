@@ -44,7 +44,6 @@ merge.tool=Visual Studio Code
 
 
 ## How to import the distant repository to your local directory
-git remote add depot_distant https://github.com/CoralieEscande/Exercices2Moocs.git  
 git clone https://github.com/CoralieEscande/Exercices2Moocs.git  
 
 
